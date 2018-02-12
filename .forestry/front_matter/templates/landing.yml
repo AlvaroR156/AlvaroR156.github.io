@@ -1,0 +1,11 @@
+---
+hide_body: false
+fields:
+- type: text
+  name: heading
+  label: Heading
+  description: Motto of the company
+- type: file
+  name: background_image
+  label: Background image
+  description: Image for the overlay
