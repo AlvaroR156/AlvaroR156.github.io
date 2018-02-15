@@ -1,9 +1,9 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
-description: null
-image: null
+landing-title: Hi, we are LionBox
+description: A remote digital media couple company solution for entrepreneurs
+image: assets/images/pic11.jpg
 author: null
 ---
 
