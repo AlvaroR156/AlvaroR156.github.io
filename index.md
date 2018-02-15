@@ -2,9 +2,9 @@
 layout: home
 title: Home
 landing-title: Hi, we are LionBox
-description: 
-image: 
-author: 
+description: A remote digital media couple company solution for entrepreneurs
+image: assets/images/pic11.jpg
+author: null
 ---
 Long text from the home template.
 
