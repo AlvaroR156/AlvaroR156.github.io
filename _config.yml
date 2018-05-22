@@ -4,7 +4,7 @@ subtitle: Digital Media Services
 email: youremailaddress@gmail.com
 description: This description is on the metatags.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "forestry.lionboxmedia.com" # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
 city: Nashville
