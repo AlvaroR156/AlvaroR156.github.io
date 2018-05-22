@@ -12,3 +12,4 @@ fields:
   description: Image for the overlay
 pages:
 - title-goes-here.md
+- _posts/changing-the-url.md
