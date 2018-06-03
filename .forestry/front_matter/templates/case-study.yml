@@ -14,3 +14,4 @@ fields:
     maxSize: '20'
 pages:
 - tkt.md
+- _posts/posters.md
