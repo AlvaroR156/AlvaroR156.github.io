@@ -12,3 +12,5 @@ fields:
   description: One page case study
   config:
     maxSize: '20'
+pages:
+- tkt.md
