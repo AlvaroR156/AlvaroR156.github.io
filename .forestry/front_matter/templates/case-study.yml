@@ -1,0 +1,14 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: textarea
+  name: section1
+  label: Section1
+  description: Section
+- type: file
+  label: Case Study
+  name: case_study
+  description: One page case study
+  config:
+    maxSize: '20'
